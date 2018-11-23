@@ -1,0 +1,88 @@
+[Song]
+{
+  Name = "Monika no.5"
+  Artist = "Maki Ligon"
+  Charter = "Voidex"
+  Album = "Misc"
+  Year = ", 2017"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "pop"
+  MediaType = "cd"
+  MusicStream = "song.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 120000
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+  240 = N 0 0
+  240 = N 1 0
+  240 = N 2 0
+  240 = N 3 0
+  288 = N 0 0
+  288 = N 1 0
+  288 = N 2 0
+  288 = N 3 0
+  336 = N 1 0
+  336 = N 2 0
+  336 = N 3 0
+  336 = N 4 0
+  384 = N 0 0
+  384 = N 1 0
+  384 = N 2 0
+  384 = N 4 0
+  432 = N 0 0
+  432 = N 2 0
+  432 = N 3 0
+  432 = N 4 0
+  480 = N 0 0
+  480 = N 1 0
+  480 = N 2 0
+  480 = N 3 0
+  480 = N 4 0
+  528 = N 0 0
+  528 = N 1 0
+  528 = N 3 0
+  576 = N 0 0
+  576 = N 1 0
+  576 = N 3 0
+  576 = N 4 0
+  624 = N 2 0
+  624 = N 3 0
+  624 = N 4 0
+  672 = N 0 0
+  672 = N 1 0
+  672 = N 4 0
+  720 = N 0 0
+  720 = N 1 0
+  720 = N 2 0
+  720 = N 4 0
+  768 = N 4 0
+  816 = N 0 0
+  816 = N 1 0
+  816 = N 3 0
+  864 = N 0 0
+  864 = N 3 0
+  864 = N 4 0
+  912 = N 1 0
+  912 = N 4 0
+  960 = N 0 0
+  960 = N 3 0
+  960 = N 4 0
+  1008 = N 0 0
+  1008 = N 4 0
+  1056 = N 2 0
+  1056 = N 4 0
+  1104 = N 3 0
+  1104 = N 4 0
+}
