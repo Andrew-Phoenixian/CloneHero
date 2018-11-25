@@ -1,0 +1,29 @@
+[Song]
+{
+  Name = "Ba-ba-ba-bavaria"
+  Artist = "Loco Loco"
+  Charter = "Voidex"
+  Album = "Random"
+  Year = ", 2009"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "electronic"
+  MediaType = "cd"
+  MusicStream = "song.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 120000
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+  336 = N 2 0
+}
